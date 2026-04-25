@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(qt --help)",
+      "Bash(qt status *)",
+      "Bash(qt vault *)",
+      "Read(//home/tom/Documents/quick_thought/**)",
+      "Bash(qt kits *)",
+      "Bash(qt node *)",
+      "Bash(curl -s http://127.0.0.1:3001/api/maps/C_gm87S7VrCb9V-F8Atba)"
+    ]
+  }
+}
